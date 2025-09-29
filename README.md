@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-Check out the live app: [Contact Form](https://13reath.github.io/contact-form/)
+Check out the live app: [Contact Form](https://13reath.github.io/Contact-Form-app/)
 
 ## Screenshot
 
